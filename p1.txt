@@ -1,3 +1,6 @@
 hi he is mahesh
 he is an intelligent guy
+<<<<<<< HEAD
 and sharp ique power
+=======
+>>>>>>> 6fecf31 (added)
